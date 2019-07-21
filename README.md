@@ -1,6 +1,6 @@
-## Shadowverse Tracker
+# Shadowverse Tracker
 
-This was created to allow users to track and and view statistics of their **Shadowverse** games.
+This was created to allow users to track and and view statistics of their **Shadowverse** games, forked from [sleeplessghost/ShadowverseTracker](https://github.com/sleeplessghost/ShadowverseTracker).
 
 You can filter the games by:
 
@@ -11,14 +11,6 @@ You can filter the games by:
 Also included is an Icon Changer in case you don't like the current icon.
 
 Feature/improvement suggestions are welcome and I will add them when I have time.
-
-If you like the tracker, feel free to donate:
-
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/sleeplessghost)
-
-Bitcoin address: *1Q2Z6A7un9dSX37JAs29Bhiu7CFMCNN7VA*
-
-Contact me: sleeplessghost@live.com
 
 ## Future Goals
 
