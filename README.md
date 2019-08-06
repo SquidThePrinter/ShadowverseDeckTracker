@@ -1,4 +1,4 @@
-# Shadowverse Tracker
+# Shadowverse Deck Tracker (SDT)
 
 This was created to allow users to track and and view statistics of their **Shadowverse** games, forked from [sleeplessghost/ShadowverseTracker](https://github.com/sleeplessghost/ShadowverseTracker).
 
